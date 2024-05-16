@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Квиз Боб</string>
+    <string name="unclicked_warning_quiz">Выберите ответ перед подтверждением</string>
+    <string name="accept_quiz">Подтвердить</string>
+    <string name="close_quiz">Выйти</string>
+    <string name="retry_quiz">Повторить</string>
+    <string name="memory_game">НАЙДИ ПАРУ</string>
+    <string name="quiz_game">КВИЗ</string>
+</resources>
